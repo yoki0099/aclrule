@@ -1,0 +1,8 @@
+
+# PFAmazonServer
+# 
+#DOMAIN,apple.comscoreresearch.com
+#DOMAIN-SUFFIX,unity3d.com
+#75.2.16.85,35.71.161.161
+IP-CIDR,75.2.16.0/8,no-resolve
+IP-CIDR,35.71.161.0/8,no-resolve
