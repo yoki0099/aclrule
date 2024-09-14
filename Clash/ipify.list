@@ -1,0 +1,6 @@
+
+# ipify
+# 
+#DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,ipify.org
+#IP-CIDR,17.0.0.0/8,no-resolve
