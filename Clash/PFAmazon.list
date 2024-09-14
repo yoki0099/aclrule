@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,aws.a2z.com
+DOMAIN-SUFFIX,cloudfront.net
 #75.2.16.85,35.71.161.161
 IP-CIDR,75.2.16.0/8,no-resolve
 IP-CIDR,35.71.161.0/8,no-resolve
