@@ -3,4 +3,5 @@
 # 
 #DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipinfo.io
 #IP-CIDR,17.0.0.0/8,no-resolve
