@@ -1,13 +1,13 @@
 # openai2.list
 # 
 #DOMAIN,apple.comscoreresearch.com
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,oaistatic.com
-- DOMAIN-SUFFIX,ai.com
-- DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
-- DOMAIN-SUFFIX,chat.oaistatic.com.cdn.cloudflare.net
-- DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-- DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-- DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
-- DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
-- DOMAIN-SUFFIX,o33249.ingest.sentry.io
+#DOMAIN-SUFFIX,openai.com
+#DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,chat.oaistatic.com.cdn.cloudflare.net
+#DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
