@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,cloudfront.net
 IP-CIDR,75.2.16.85/32,no-resolve
 IP-CIDR,35.71.161.161/32,no-resolve
 IP-CIDR,3.21.182.164/32,no-resolve
+IP-CIDR,3.13.102.232/32,no-resolve
