@@ -3,6 +3,7 @@
 # 
 #DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,aws.a2z.com
